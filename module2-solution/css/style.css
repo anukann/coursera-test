@@ -26,7 +26,7 @@ body{
 .item{
   position: relative;
   top: 0;
-  background-color:#008080;
+  background-color:#A7C7E7;
   margin: 15px;
   padding: 25px;
   border: 3px solid #000;
@@ -49,15 +49,15 @@ body{
 }
 
 #title-one {
-  background-color: #7393B3;
+  background-color: #CCCCFF;
 } 
 
 #title-two{
-  background-color: #088F8F;
+  background-color: #96DED1;
 }
 
 #title-three{
-  background-color: #6F8FAF;
+  background-color: #008080;
 }
 
 /*Desktop*/
